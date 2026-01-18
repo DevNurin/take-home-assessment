@@ -1,2 +1,4 @@
-# take-home-assessment
-Take-home assessment for Frontend Dev
+# Take-Home Assessment – Frontend Developer
+
+**Candidate:** Nurin Nabilah  
+**Role Applied:** Frontend Developer
